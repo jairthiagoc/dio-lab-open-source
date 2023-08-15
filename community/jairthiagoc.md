@@ -1,4 +1,6 @@
-## Hey My name is, Jair Manoel 👋
+# Description
+
+## Hey my name is, Jair Manoel 🖥️
 - 🔭 Trabalho com desenvolvimento de sistemas desde 2000
 - 🌱 Desenvolvedor FullStack - Utilizando as tecnologias, C#, Python, Java, Html5, CSS3, Angular, React, Nodejs, Nextjs.
 - 🪲 Banco de Dados - SqlServer, Oracle, Postgres, Mysql, MongoDb, DynamoDb.
@@ -9,10 +11,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jair-thiago-cardoso-manoel-b6056419/)
 
 <div>
-  <a href="https://github.com/fabis-li">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabis-li&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabis-li&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/jairthiagoc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairthiagoc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairthiagoc&hide_progress=true&theme=github_dark"/>
 </div>
+
+```py
+aboutMe = {
+    'interesses': 'Development Back-End and Front End',
+    'back-end': 'Java, Python, Nodejs e .Net ',
+    'front-end': 'HTML5, CSS3, TypeScript, Javascript, Angula, React e Vuejs',
+    'cloud': 'Azure, AWS, Google Cloud',
+    'data-base': 'Postgres, Mysql, SqlServer, Oracle, MongoDb, DynamoDb'
+}
+```
 
 <div style="display: inline_block"><br>
   <img align="center" alt="angular" height="50" width="50" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
